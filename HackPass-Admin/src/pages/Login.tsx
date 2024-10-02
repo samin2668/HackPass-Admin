@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
-import QR_Scanner from './pages/QR_Scanner';
+
+import './App.css'
 
 function App() {
 
   return (
     <>
-      <QR_Scanner/>
     </>
   );
 }
